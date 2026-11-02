@@ -1,0 +1,5 @@
+employee_id,display_name,department,hire_date,fte
+DEMO-001,Demo Person One,Operations,2024-01-15,1.0
+DEMO-002,Demo Person Two,Engineering,2024-03-01,0.8
+DEMO-003,Demo Person Three,Support,2025-02-10,1.0
+DEMO-004,Demo Person Four,Engineering,2025-06-20,0.6
