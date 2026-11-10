@@ -69,3 +69,7 @@ Publication history distinguishes the current digest from previously seen digest
 This newly authored portfolio example is inspired by operational ingestion experience. It includes only invented data and generic rules, with no employer code, real employee records, source credentials, internal paths, or original Git history. The safety improvements are features of this portfolio implementation, not claims about an earlier production system.
 
 See [design notes](docs/design.md) and [verification](docs/verification.md).
+
+## License
+
+[MIT License](LICENSE) — Copyright (c) 2026 Shane Warnakula.
